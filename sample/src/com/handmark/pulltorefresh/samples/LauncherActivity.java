@@ -23,7 +23,7 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
 /**
- * test by xiayong
+ * test by
  */
 public class LauncherActivity extends ListActivity {
 
